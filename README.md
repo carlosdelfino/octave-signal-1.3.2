@@ -7,5 +7,5 @@ They are here for my own reference and not intended to be a source for installat
 
 Please download the signal package from the original source:
 
-[https://sourceforge.net/projects/octave/?source=typ_redirec://sourceforge.net/projects/octave/?source=typ_redirect](Signal at Octave Forge) 
+[Signal at Octave Forge](https://sourceforge.net/projects/octave/?source=typ_redirect)
 
